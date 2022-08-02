@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  QuizGame App
 //
-//  Created by Nayeem Nazmul on 2022/8/2.
+//  Created by Nayeem Nazmul on 2022/7/12.
 //  Copyright © 2022 Nayeem. All rights reserved.
 //
 
